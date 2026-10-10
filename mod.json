@@ -7,15 +7,13 @@
 		"ios": "2.2081"
 	},
 	"early-load": true,
-	"version": "1.9.0",
-	"id": "roadhogstudios.game-objects-factory",
-	"name": "Game Objects Factory",
+	"version": "2.0.0",
+	"id": "roadhogstudios.game-objects-factory-extended",
+	"name": "Game Objects Factory Extended",
 	"developers": [ "lil2kki", "Arrhythmiagamer23" ],
 	"description": "The custom game objects thing for devs.",
 	"tags": [ "developer", "editor", "utility", "api" ],
 	"links": {
-		"community": "https://discord.gg/6SxAbk3bTA",
-		"homepage": "https://t.me/lil2kki_channel",
 		"source": "https://github.com/Arrhythmiagamer23/geode-game-objects-factory"
 	},
 	"api": {
