@@ -14,7 +14,7 @@
 	"description": "The custom game objects thing for devs.",
 	"tags": [ "developer", "editor", "utility", "api" ],
 	"links": {
-		"source": "https://github.com/Arrhythmiagamer23/geode-game-objects-factory"
+		"source": "https://github.com/Arrhythmiagamer23/geode-game-objects-factory-extended"
 	},
 	"api": {
 		"include": [
